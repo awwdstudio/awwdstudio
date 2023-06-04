@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awwdstudio
+- 👋 Hi, I’m Adam @awwdstudio
 - 👀 I’m interested in web development and cyber security
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on projects that make a change,
